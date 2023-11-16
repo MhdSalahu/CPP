@@ -29,7 +29,7 @@
 ```Algorithm
     step 1: Start 
     step 2: Read from_rod,to_rod,aux_rod and n(number of disks)
-    step 3: If n>1 repeat step from 4 to 4
+    step 3: If n>1 repeat step from 4 to 6
     step 4: Set
              n= n-1,
              from_rod= from_rod
@@ -44,7 +44,7 @@
              aux_rod= from_rod
               Repeat step from 3 to 6
 
-    step 4: Stop
+    step 7: Stop
 ```
 
 ## Output :

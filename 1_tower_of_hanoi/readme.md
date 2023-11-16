@@ -1,5 +1,9 @@
 # TOWER OF HANOI
 
+## Code :
+
+To view code [click here](./1_tower_of_hanoi.cpp)
+
 ## Algorithm :
 
 <!--```Algorithm
@@ -50,3 +54,5 @@
 ## Output :
 
 ![image](output_tower_of_hanoi.png)
+
+To view Output [click here](./output_tower_of_hanoi.png)
